@@ -19,14 +19,21 @@
 ---
 
 ## 📦 Установка (Ubuntu/Debian/Mint)
+
 sudo apt update
+
 sudo apt install tor python3 python3-pip -y
+
 git clone https://github.com/NeoDelux/neoddosman
+
 cd neoddosman
+
 pip install -r requirements.txt
 
 ## 📦 Установка (Arch/Kali/Manjaro)
+
 sudo pacman -Sy tor python python-pip git --noconfirm
+
 pip install -r requirements.txt
 
 ---
