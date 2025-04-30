@@ -24,7 +24,7 @@ sudo apt update
 
 sudo apt install tor python3 python3-pip -y
 
-git clone https://github.com/NeoDelux/neoddosman
+git clone https://github.com/neodelux/neoddosman
 
 cd neoddosman
 
