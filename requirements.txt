@@ -1,0 +1,7 @@
+requests
+colorama
+fake-useragent
+argparse
+tqdm
+stem
+lxml
