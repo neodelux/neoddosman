@@ -30,7 +30,7 @@ cd neoddosman
 
 pip install -r requirements.txt
 
-(Подробнее в файле howtoinstall.txt)
+!!! (Подробнее в файле howtoinstall.txt) !!!
 
 ## 📦 Установка (Arch/Kali/Manjaro)
 
