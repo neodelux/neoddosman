@@ -18,7 +18,7 @@
 
 ---
 
-## 📦 Установка (Ubuntu/Debian/Mint)
+## 📦 Установка (Ubuntu/Debian/Mint) 
 
 sudo apt update
 
@@ -29,6 +29,8 @@ git clone https://github.com/neodelux/neoddosman
 cd neoddosman
 
 pip install -r requirements.txt
+
+(Подробнее в файле howtoinstall.txt)
 
 ## 📦 Установка (Arch/Kali/Manjaro)
 
